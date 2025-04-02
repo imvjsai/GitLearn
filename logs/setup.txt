@@ -1,3 +1,4 @@
+<Test stash>
 =============================== Setup logs started ===============================
 
 04-12-2020 13_27_31 : Git already downloaded - git version 2.9.0.windows.1
