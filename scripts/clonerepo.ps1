@@ -31,6 +31,7 @@ if($FileExists)
     $Description = Get-Content description.txt
 }
 else
+# If description file does not exist, create one
 {
     $Description = "This repo was made with GitLearn"
 }
